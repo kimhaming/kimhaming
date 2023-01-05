@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![GitHub Gist last commit](https://img.shields.io/github/gist/last-commit/kimhaming)
 <!--
 **kimhaming/kimhaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub followers](https://img.shields.io/github/followers/kimhaming?style=social)
